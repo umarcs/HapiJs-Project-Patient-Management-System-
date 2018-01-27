@@ -1,0 +1,21 @@
+{
+  "name": "pmsbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "hapi": "^16.5.0",
+    "hapi-auth-jwt2": "^7.3.0",
+    "hapi-mongoose-bluebird": "^1.0.5",
+    "joi": "^10.6.0",
+    "jsonwebtoken": "^7.4.2",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.4"
+  }
+}
